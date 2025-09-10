@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: safepass
+    env: docker
+    plan: free
+    autoDeploy: true
